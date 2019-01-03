@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.jhipster.myapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "gateway",
+    "baseName": "JeeGateway",
+    "packageName": "org.jhipster.myapp",
+    "packageFolder": "org/jhipster/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjYyYjE5MDhiODQwNmQzMDZlMDFlODA1ODgyMzk0ZmQ5ZmQwZjA4NTQxMzJlYzIyMDczODQwMzM2OWUyN2I0NzI0ZmMyZjBmNDZkMDY3MDRlZmVjYWM1NWMxY2E0ZjMyOWE2YjEzMTk2OGQyYTA5MDA4MzNhNjFhYTQ0NjUwYzA=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"]
+  }
+}
